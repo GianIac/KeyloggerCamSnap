@@ -2,6 +2,12 @@
 KeyloggerCamSnap is a Python-based monitoring tool that logs keystrokes and takes periodic screenshots and webcam images.
 I suppose I will integrate new features, at the moment it is in embryonic stage. 
 
+video: 
+
+https://github.com/GianIac/KeyloggerCamSnap/assets/80957309/e864a18f-a82a-479f-9dfb-67ce6af87ca5
+
+
+
 # Disclaimer
 Ufff ! I don't like write this, but this tool is provided for educational use only. Alright? Use it wisely ;)
 
